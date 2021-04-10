@@ -7,3 +7,4 @@
 	path = depigner
 	url = https://github.com/corradolanera/depigner
 	shallow = true
+	registered = true
