@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CrossClustering"]
+	path = CrossClustering
+	url = https://github.com/corradolanera/crossclustering
 [submodule "depigner"]
 	path = depigner
 	url = https://github.com/corradolanera/depigner
