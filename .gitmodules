@@ -5,6 +5,3 @@
 [submodule "CrossClustering"]
 	path = CrossClustering
 	url = https://github.com/corradolanera/crossclustering
-[submodule "depigner"]
-	path = depigner
-	url = https://github.com/corradolanera/depigner
